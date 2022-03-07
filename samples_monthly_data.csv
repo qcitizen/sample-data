@@ -1,0 +1,33 @@
+value,Task,Time
+22.0,Depression,Baseline
+6.0,Depression,Month 1
+10.0,Depression,Month 2
+14.0,Depression,Month 3
+0.0,Anxiety,Baseline
+0.0,Anxiety,Month 1
+2.0,Anxiety,Month 2
+0.0,Anxiety,Month 3
+12.0,Stress,Baseline
+0.0,Stress,Month 1
+6.0,Stress,Month 2
+6.0,Stress,Month 3
+10.0,Positive,Baseline
+12.0,Positive,Month 1
+13.0,Positive,Month 2
+24.0,Positive,Month 3
+14.0,Negative,Baseline
+12.0,Negative,Month 1
+13.0,Negative,Month 2
+12.0,Negative,Month 3
+87.0,Tapping Total,Baseline
+82.0,Tapping Total,Month 1
+82.0,Tapping Total,Month 2
+88.0,Tapping Total,Month 3
+28.0,PASAT,Baseline
+30.0,PASAT,Month 1
+30.0,PASAT,Month 2
+30.0,PASAT,Month 3
+285.0,Spatial Span,Baseline
+255.0,Spatial Span,Month 1
+260.0,Spatial Span,Month 2
+325.0,Spatial Span,Month 3
